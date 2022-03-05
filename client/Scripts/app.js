@@ -1,4 +1,10 @@
 /* custom JS goes here */
+/**
+ * File: app.js
+ * Name: Saqib Hasan Siddiqi
+ * Id: 301237796
+ * Web App: Midterm- Book list
+ */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){

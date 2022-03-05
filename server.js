@@ -1,3 +1,9 @@
+/**
+ * File: server.js
+ * Name: Saqib Hasan Siddiqi
+ * Id: 301237796
+ * Web App: Midterm- Book list
+ */
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');

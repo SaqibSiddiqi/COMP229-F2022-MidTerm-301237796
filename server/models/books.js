@@ -1,3 +1,9 @@
+/**
+ * File: books.js
+ * Name: Saqib Hasan Siddiqi
+ * Id: 301237796
+ * Web App: Midterm- Book list
+ */
 let mongoose = require('mongoose');
 
 // create a model class
