@@ -10,4 +10,4 @@ please use **`npm install`** to install project dependencies
  Id: 301237796
  Web App: Midterm- Book list
 
- Took me 4 days to get the app to work before realizing that the issue lied with Windows 11. Luckly switch to windows 10 device by saturday!
+ Took me 4 days to get the app to work before realizing that the issue lied with Windows 11. Luckily switch to windows 10 device by saturday!
